@@ -1,0 +1,49 @@
+* {
+font-family: 'Lato', Arial, serif;
+margin: 0px;
+padding: 0px;
+}
+
+
+
+
+body {
+    background-color: white;
+    margin: 10px;
+    border-left: 10px #2baadf;
+    max-width: 800px;
+    margin: auto;
+}
+
+header {
+margin: 50px 50px;
+
+
+}
+
+main {
+    
+}
+
+footer {
+    margin: 50px 50px;
+}
+
+a {
+    color: #2baadf;
+    text-decoration: none;
+}
+
+.dates {
+    color: #cccccc;
+}
+
+img {
+    margin:;
+}
+
+
+
+
+
+

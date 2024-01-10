@@ -1,0 +1,39 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+h1 { 
+    text-align: center;
+    color: palevioletred;
+}
+
+h2 { 
+    text-align: center;
+}
+
+.stars {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.checked {
+    color: yellow;
+}
+
+.central-text {
+    background-color: aquamarine;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: ;
+}
